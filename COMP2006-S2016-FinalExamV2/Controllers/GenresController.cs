@@ -9,6 +9,8 @@ using System.Web;
 using System.Web.Mvc;
 using COMP2006_S2016_FinalExamV2.Models;
 
+//GenresControllers
+
 namespace COMP2006_S2016_FinalExamV2.Controllers
 {
     public class GenresController : Controller

@@ -1,3 +1,5 @@
+//Album Model
+
 namespace COMP2006_S2016_FinalExamV2.Models
 {
     using System;
